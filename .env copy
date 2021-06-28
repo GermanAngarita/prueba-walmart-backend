@@ -1,0 +1,9 @@
+DOMINIO=http://localhost:7070
+PORT=7070
+ROOT_PATH=/api/v1
+ZONA_HORARIA=America/Bogota
+ENTORNO=DESARROLLO
+BDD=walmart-bd
+URL_BDD=mongodb+srv://brandDiscountsUser:brandDiscountsPassword@cluster0.d66lv.mongodb.net/walmart-bd?retryWrites=true&w=majority
+FRONTEND=http://localhost:4200
+SECRET=walmart-test
